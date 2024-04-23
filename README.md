@@ -22,7 +22,7 @@ Normal life can be stressful, and people need to relax. Being entertained by oth
 
 
 ### 📈Report 
-
+### Report pdf - https://github.com/YACHNA-star/Entertainers-Data-Analysis/blob/main/Report.pdf
 ### Live report - https://lookerstudio.google.com/s/q_sjm80BDR8
 
 ### SQL Analysis
